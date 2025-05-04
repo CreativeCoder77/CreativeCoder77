@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm CreativeCOder!
+# 👋 Hey there, I'm CreativeCoder!
 
 🎯 Aspiring Developer | 🧠 AI & Cybersecurity Enthusiast | 🚀 Always Learning
 
