@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 ---
 
 ## 🛠️ Tech Stack & Tools I Prefer to Use
-- **Languages:** Python JavaScript, HTML/CSS
+- **Languages:** Python, JavaScript, HTML/CSS, React
 - **Frameworks/Libraries:** Flask, PyQt5, Kivy, OpenCV, MediaPipe, YOLOv5/v8, TensorFlow, scikit-learn
 - **Databases:** SQLite, Firebase
 - **Tools:** Git, Render, VS Code, Jupyter, CustomTkinter
